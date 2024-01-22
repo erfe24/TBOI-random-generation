@@ -1,0 +1,15 @@
+D:\ДЕЛА\ГЕНЕРАЦИЯ\Тест1\Тест1\bin\Debug\net6.0\Тест1.exe
+D:\ДЕЛА\ГЕНЕРАЦИЯ\Тест1\Тест1\bin\Debug\net6.0\Тест1.deps.json
+D:\ДЕЛА\ГЕНЕРАЦИЯ\Тест1\Тест1\bin\Debug\net6.0\Тест1.runtimeconfig.json
+D:\ДЕЛА\ГЕНЕРАЦИЯ\Тест1\Тест1\bin\Debug\net6.0\Тест1.dll
+D:\ДЕЛА\ГЕНЕРАЦИЯ\Тест1\Тест1\bin\Debug\net6.0\Тест1.pdb
+D:\ДЕЛА\ГЕНЕРАЦИЯ\Тест1\Тест1\obj\Debug\net6.0\Тест1.csproj.AssemblyReference.cache
+D:\ДЕЛА\ГЕНЕРАЦИЯ\Тест1\Тест1\obj\Debug\net6.0\Тест1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЕЛА\ГЕНЕРАЦИЯ\Тест1\Тест1\obj\Debug\net6.0\Тест1.AssemblyInfoInputs.cache
+D:\ДЕЛА\ГЕНЕРАЦИЯ\Тест1\Тест1\obj\Debug\net6.0\Тест1.AssemblyInfo.cs
+D:\ДЕЛА\ГЕНЕРАЦИЯ\Тест1\Тест1\obj\Debug\net6.0\Тест1.csproj.CoreCompileInputs.cache
+D:\ДЕЛА\ГЕНЕРАЦИЯ\Тест1\Тест1\obj\Debug\net6.0\Тест1.dll
+D:\ДЕЛА\ГЕНЕРАЦИЯ\Тест1\Тест1\obj\Debug\net6.0\refint\Тест1.dll
+D:\ДЕЛА\ГЕНЕРАЦИЯ\Тест1\Тест1\obj\Debug\net6.0\Тест1.pdb
+D:\ДЕЛА\ГЕНЕРАЦИЯ\Тест1\Тест1\obj\Debug\net6.0\Тест1.genruntimeconfig.cache
+D:\ДЕЛА\ГЕНЕРАЦИЯ\Тест1\Тест1\obj\Debug\net6.0\ref\Тест1.dll
